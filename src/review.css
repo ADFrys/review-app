@@ -35,5 +35,18 @@
 
 input {
 	color: black;
+	font-weight: 800;
+	margin: 0.25rem;
+	background-color: white;
+}
+
+form {
+	margin: 1rem;
+}
+
+button {
+	font-weight: 800;
+	background-color: white;
+	height: 1.25rem;
 }
 
