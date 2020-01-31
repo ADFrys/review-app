@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5d707203b65083001e956f0a",
+    "author": "John Doe",
+    "place": "Burger Stop",
+    "published_at": "Mon Jan 27 2020 11:46:39 GMT-0500 (Central Daylight Time)",
+    "rating": 5,
+    "content": "The bacon cheeseburger was delicious!\r\n"
+  },
+  {
+    "id": "5d707203f1c60da307b00335",
+    "author": "Jane McDoe",
+    "place": "Soupzzz",
+    "published_at": "Wed Jan 29 2020 01:15:36 GMT-0500 (Central Daylight Time)",
+    "rating": 2,
+    "content": "The soup was cold, too salty and flavorless.\r\n"
+  },
+  {
+    "id": "5d7072035e3b9ab65839a7a7",
+    "author": "Amber Sees",
+    "place": "Organic farm raised chicken",
+    "published_at": "Fri Jan 24 2020 22:42:28 GMT-0600 (Central Standard Time)",
+    "rating": 5,
+    "content": "Wonderful, tasty organic, chicken.\r\n"
+  },
+  {
+    "id": "5d707203ac281ba7cb5ded76",
+    "author": "Matt Meyer",
+    "place": "Ice Scream Shop",
+    "published_at": "Thu Jan 23 2020 04:16:06 GMT-0500 (Central Daylight Time)",
+    "rating": 2,
+    "content": "The ice cream was horrible, a real scream.\r\n"
+  },
+  {
+    "id": "5d707203cbaeac7faefeed02",
+    "author": "Stacy Block",
+    "place": "Diner",
+    "published_at": "Fri Jan 24 1995 21:08:47 GMT-0500 (Central Daylight Time)",
+    "rating": 5,
+    "content": "A good greasy spoon restaurant.\r\n"
+  },
+  {
+    "id": "5d7072031aa6b6ac2114a129",
+    "author": "Don Joe",
+    "place": "Maple Breakfast",
+    "published_at": "Mon Jan 6 2020 19:12:34 GMT-0500 (Central Daylight Time)",
+    "rating": 3,
+    "content": "The pancakes were average, not bad and not great.\r\n"
+  },
+  {
+    "id": "5d70720339cb3df28df914b2",
+    "author": "Jessica Jones",
+    "place": "Salads Plus",
+    "published_at": "Thu Jan 9 2020 16:19:23 GMT-0600 (Central Standard Time)",
+    "rating": 2,
+    "content": "Salad was not fresh, expensive and boring.\r\n"
+  },
+  {
+    "id": "5d707203f1d8615c2808e1ea",
+    "author": "Emma Johnson",
+    "place": "Taco Taco",
+    "published_at": "Sun Jan 5 2002 22:44:01 GMT-0600 (Central Standard Time)",
+    "rating": 4,
+    "content": "Pretty good tacos.\r\n"
+  },
+  {
+    "id": "5d7072030bef7a653b0b80a4",
+    "author": "John Adams",
+    "place": "Pizza Place",
+    "published_at": "Sun Jan 12 2020 05:47:56 GMT-0500 (Central Daylight Time)",
+    "rating": 1,
+    "content": "Pizza was cold and flavorless.\r\n"
+  }
+]
