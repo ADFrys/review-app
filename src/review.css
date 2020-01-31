@@ -3,19 +3,33 @@
 .review-container {
 	display: flex;
 	justify-content: center;
+	width: 50%;
+	text-align: center;
 }
 
 .card > .review-container > .reviews {
 	display: flex;
 	justify-content: center;
+	align-content: space-around;
 }
 
-.reviews {
-	display: flex;
+.review-container .reviews {
 	flex-flow: row wrap;
-	width: 65%;
+	width: 50%;
 	align-content: center;
-	justify-content: center;
 	margin-bottom: 5rem;
+	background-color: white;
+	box-shadow: 3px 3px #838383;
+}
+
+.reviews h2, .reviews p {
+	background-color: white;
+	line-height: 1.5;
+	margin-right: 1rem;
+}
+
+.reviews h2 {
+	font-weight: 800;
+	margin-right: 1rem;
 }
 

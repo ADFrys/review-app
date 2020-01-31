@@ -5,7 +5,7 @@ import SingleReview from './SingleReview';
 export default function Review({ review }) {
 	return (
 				review.map(singlereview => {
-					return <SingleReview singlereview={singlereview} />
+					return <SingleReview key={singlereview.id} singlereview={singlereview} />
 				})
 			
 	)
