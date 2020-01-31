@@ -1,0 +1,21 @@
+
+
+.review-container {
+	display: flex;
+	justify-content: center;
+}
+
+.card > .review-container > .reviews {
+	display: flex;
+	justify-content: center;
+}
+
+.reviews {
+	display: flex;
+	flex-flow: row wrap;
+	width: 65%;
+	align-content: center;
+	justify-content: center;
+	margin-bottom: 5rem;
+}
+

@@ -46,3 +46,21 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/* End CSS reset. Begin App specific styles */
+
+.reviewHead {
+  background-color: #0d57b3;
+  color: white;
+  font-weight: 800;
+  height: 2rem;
+  margin-bottom: 10rem;
+  padding-top: 1rem;
+  padding-left: 3rem;
+}
+
+* {
+  background-color: #8d95a3;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
